@@ -1,5 +1,5 @@
 package pl.adramelech_sgo;
-
+// Change the pacakage name or delete
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -23,7 +23,7 @@ public class calculate extends HttpServlet {
      */
     public calculate() {
         super();
-        // TODO Auto-generated constructor stub
+
     }
 
 	/**
