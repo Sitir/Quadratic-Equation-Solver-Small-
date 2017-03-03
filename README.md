@@ -7,3 +7,5 @@ Make sure before using this code to change package name on first line in code.
 All variables has some use in code and don't modfied them at beginning because it can cause errors.
 
 If there be any issue please contact me!
+
+Working on Tomcat v7.+++ not tasted on lower version.
